@@ -12,3 +12,4 @@
 - [ ] Abstract creating new ducks
 - [ ] Discuss CSS vs pre-processors vs import method from PMT team
 - [ ] SSR vs CSR
+- [ ] Discuss ducks vs re-ducks and when to use
