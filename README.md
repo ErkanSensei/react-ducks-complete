@@ -1,6 +1,6 @@
 ### Proposed Styleguides:
 
-* (Airbnb)[https://github.com/airbnb/javascript/tree/master/react]
+* [Airbnb](https://github.com/airbnb/javascript/tree/master/react)
 
 
 ### Todo
